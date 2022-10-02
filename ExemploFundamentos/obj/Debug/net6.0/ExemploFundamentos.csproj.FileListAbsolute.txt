@@ -1,0 +1,36 @@
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CopyComplete
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+G:\Meu Drive\DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CopyComplete
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+C:\DIO\C#\ExemploFundamentos\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll

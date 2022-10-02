@@ -1,0 +1,15 @@
+G:\Meu Drive\DIO\projeto\bin\Debug\net6.0\projeto.exe
+G:\Meu Drive\DIO\projeto\bin\Debug\net6.0\projeto.deps.json
+G:\Meu Drive\DIO\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+G:\Meu Drive\DIO\projeto\bin\Debug\net6.0\projeto.dll
+G:\Meu Drive\DIO\projeto\bin\Debug\net6.0\projeto.pdb
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.dll
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\refint\projeto.dll
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.pdb
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+G:\Meu Drive\DIO\projeto\obj\Debug\net6.0\ref\projeto.dll
